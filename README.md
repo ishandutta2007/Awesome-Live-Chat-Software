@@ -5,10 +5,13 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Live-Chat-Software"><img src="https://img.shields.io/badge/Awesome-Live--Chat-blue.svg?style=flat-square&logo=awesomelists" alt="Awesome List"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Live-Chat-Software/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Live-Chat-Software?style=social" alt="GitHub Stars"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Live-Chat-Software/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0--1.0-green.svg?style=flat-square" alt="License"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Live-Chat-Software/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ---
@@ -27,6 +30,8 @@ Whether you are an enterprise support architect seeking SOC2-compliant customer 
 - [🏢 SaaS & Hosted Live Chat Platforms](#-saas--hosted-live-chat-platforms)
 - [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
 - [🧩 Frameworks & Building Blocks](#-frameworks--building-blocks)
+- [⭐ Star History](#-star-history)
+- [💖 Support](#-support)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [📜 Disclaimer](#-disclaimer)
 
@@ -99,6 +104,26 @@ Contributions from developers, maintainers, and support engineers are welcome!
 2. 📝 Add or refine entries in `README.md` maintaining table format, verified pricing, free tier limits, company scale, and star badges.
 3. 🔗 Verify that all external URLs and GitHub stargazer badge links are functional.
 4. 🚀 Submit a Pull Request with a descriptive summary of your additions.
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Live-Chat-Software&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Live-Chat-Software&type=date&legnnd=top-left)
+
+---
+
+## 💖 Support
+
+Thank you so much for exploring and using this curated live chat software directory! 🙏
+
+If you find this list useful or time-saving:
+- ⭐ **Star this repository** to show your appreciation and help others discover it.
+- 🍴 **Fork it** to maintain your own custom list or contribute back.
+- 📢 **Share it** with colleagues, dev communities, and customer support leads.
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to support ongoing maintenance and curation of open developer resources, feel free to sponsor via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+Every bit of encouragement is deeply appreciated! ✨
 
 ---
 
