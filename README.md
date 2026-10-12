@@ -8,7 +8,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Live-Chat-Software"><img src="https://img.shields.io/badge/Awesome-Live--Chat-blue.svg?style=flat-square&logo=awesomelists" alt="Awesome List"></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Live-Chat-Software/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Live-Chat-Software?style=social" alt="GitHub Stars"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Live-Chat-Software/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Live-Chat-Software?style=social" alt="GitHub_Stars"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Live-Chat-Software/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0--1.0-green.svg?style=flat-square" alt="License"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Live-Chat-Software/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -66,9 +66,9 @@ Below is the comparative breakdown of leading hosted live chat and conversationa
 
 ## 🔓 Open-Source GitHub Projects
 
-Explore the top open-source live chat software, self-hosted support inboxes, and real-time customer communication suites. Projects are ordered descending by **GitHub Stars** ⭐.
+Explore the top open-source live chat software, self-hosted support inboxes, and real-time customer communication suites. Projects are ordered descending by **GitHub_Stars** ⭐.
 
-| 📦 Repository & Project | ⭐ GitHub Stars | 💻 Tech Stack | 📜 License | 💡 Highlights & Capabilities |
+| 📦 Repository & Project | ⭐ GitHub_Stars | 💻 Tech Stack | 📜 License | 💡 Highlights & Capabilities |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** | [![Stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white)](https://github.com/RocketChat/Rocket.Chat/stargazers) | TypeScript, Node.js, MongoDB, React | MIT | Enterprise-grade secure communication platform with built-in live chat website widgets, omnichannel agent routing (WhatsApp, SMS, Instagram), and video conferencing. |
 | **[Chatwoot](https://github.com/chatwoot/chatwoot)** | [![Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers) | Ruby on Rails, Vue.js, PostgreSQL, Redis | AGPL-3.0 | Modern alternative to Intercom and Zendesk. Features multi-brand unified inbox, live website messenger, CRM contact attributes, pre-chat forms, and AI copilot helpers. |
@@ -101,7 +101,7 @@ When constructing custom in-house live chat stacks or conversational agent workf
 Contributions from developers, maintainers, and support engineers are welcome!
 
 1. 🍴 Fork this repository.
-2. 📝 Add or refine entries in `README.md` maintaining table format, verified pricing, free tier limits, company scale, and star badges.
+2. 📝 Add or refine entries in `README.md` maintaining table format, verified pricing, free tier limits, company scale, and Stars_Badges.
 3. 🔗 Verify that all external URLs and GitHub stargazer badge links are functional.
 4. 🚀 Submit a Pull Request with a descriptive summary of your additions.
 
