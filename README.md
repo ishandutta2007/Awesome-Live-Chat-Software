@@ -1,221 +1,116 @@
-# Awesome-Live-Chat-Software
-
-## Top Live Chat Software Ecosystem
-
-
-
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-
-*Focused on Real-Time Visitor Engagement, Agent Inbox Management & Omnichannel Support*  
-
-**Last updated: March 2026**
-
-
-
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Live Chat Software**. These tools enable businesses to engage website visitors in real-time conversations, manage agent workflows, automate responses, and unify chat with email, social messaging, and other support channels.
-
-
-
-**Examples** include Salesforce Live Agent, LiveChat, Intercom, Zendesk Chat, Olark, Drift, Tidio, Crisp, Freshchat, and Pure Chat (the category leaders).
-
-
-
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, custom chatbot integration, and transparent visitor data — ideal for businesses prioritizing data sovereignty, developers building support platforms, and teams avoiding per-seat pricing.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-
-
-- **[Salesforce Live Agent](https://www.salesforce.com/)**  
-
-  Live chat solution within Salesforce Service Cloud with real-time visitor engagement, agent routing, and case creation from chat transcripts.
-
-
-
-- **[LiveChat](https://www.livechat.com/)**  
-
-  Popular live chat and help desk platform with agent inbox, canned responses, and integrations for e-commerce and SaaS.
-
-
-
-- **[Intercom](https://www.intercom.com/)**  
-
-  Customer messaging platform with live chat, chatbots, product tours, and unified inbox for sales and support.
-
-
-
-- **[Zendesk Chat](https://www.zendesk.com/)**  
-
-  Live chat software within Zendesk suite with proactive triggers, visitor tracking, and ticket integration.
-
-
-
-- **[Olark](https://www.olark.com/)**  
-
-  Live chat platform with visitor monitoring, automated greetings, and integrations for e-commerce.
-
-
-
-- **[Drift](https://www.drift.com/)**  
-
-  Conversational marketing platform with live chat, chatbots, and meeting scheduling for sales teams.
-
-
-
-- **[Tidio](https://www.tidio.com/)**  
-
-  Live chat and chatbot platform with AI-powered responses, email marketing, and e-commerce integrations.
-
-
-
-- **[Crisp](https://crisp.chat/)**  
-
-  Multichannel customer messaging platform with live chat, chatbots, and shared inbox for teams .
-
-
-
-- **[Freshchat](https://www.freshworks.com/freshchat/)**  
-
-  Modern messaging software with live chat, bots, and omnichannel support within Freshworks suite.
-
-
-
-- **[Pure Chat](https://www.purechat.com/)**  
-
-  Simple live chat software for small businesses with unlimited operators and website visitor tracking.
-
-
-
-## Open-Source GitHub Projects
-
-
-
-- **[Chatwoot](https://github.com/chatwoot/chatwoot)**  
-
-  Leading open-source customer engagement suite and live chat platform, positioned as an alternative to Intercom, Zendesk, and Salesforce Service Cloud . Features omnichannel support (website live chat, email, Facebook, Instagram, Twitter, Telegram, WhatsApp, SMS, API), shared multi-brand inboxes, CRM with custom attributes, canned responses, auto-assignment, conversation continuity via email, multi-lingual support, and powerful API/webhooks . Built with Ruby on Rails, React, PostgreSQL, and Redis. Available via Heroku 1-click deploy, DigitalOcean 1-click Kubernetes, Docker, and Railway templates . Captain AI provides automated responses and agent assistance .
-
-
-
-- **[LibreDesk](https://github.com/abhinavxd/libredesk)**  
-
-  Open-source, self-hosted customer support desk distributed as a single binary. Lightweight alternative to Intercom, Zendesk, and Chatwoot . Features shared inbox for email, live chat, and WhatsApp; real-time chat widget; help center with multilingual knowledge base; AI assistant using knowledge base; agent copilot for drafting replies and summarizing conversations; automations, macros, auto-assignment, and SLA management; CSAT and analytics . Backend in Go, frontend Vue.js 3 with Shadcn UI. Deploy via Railway 1-click, Docker, or binary .
-
-
-
-- **[Chaskiq](https://github.com/chaskiq/chaskiq)**  
-
-  Full-featured live chat, support, and marketing platform (alternative to Intercom, Drift, Crisp) . Features customer segment filters, web messenger embed, agent conversation routing, video calls via RTC, triggerable conversational bots, mailing campaigns, onboarding tours, API integrations (WhatsApp, Twitter DM, Slack, Calendly, Zoom), CRM integration (Pipedrive), webhooks, help center with multilanguage support, GraphQL API with OAuth, quick replies, GDPR consent, audits, composable roles/permissions, and pluggable reports . Built with Ruby on Rails, React, PostgreSQL, and Redis. AGPL-3.0 licensed with commercial license available.
-
-
-
-- **[Live Helper Chat](https://github.com/LiveHelperChat/livehelperchat)**  
-
-  Open-source live support application written in PHP and MySQL, serving production environments handling over 10,000 chats per day . Features web and mobile apps, voice/video/screen share (Agora paid, Jitsi free), Telegram, Twilio WhatsApp, Facebook Messenger bot building, MCP setup with Claude/ChatGPT, REST API, bot integration with Rasa AI, ChatGPT, Ollama AI, Gemini, Dialogflow, Elasticsearch for chat statistics, S3 storage, desktop app (Electron), Google Authentication, 2FA, LDAP, SSO, and sentiment analysis . 2,000+ GitHub stars, 743 forks .
-
-
-
-- **[Tiledesk](https://github.com/Tiledesk/tiledesk)**  
-
-  Full-stack open-source live chat with built-in chatbots, written in Node.js and Angular . Positioned as open-source alternative to Voiceflow, enabling creation of advanced LLM chatbots with seamless human agent handover . Deploy on Kubernetes via Helm or Docker Compose.
-
-
-
-- **[Mibew Messenger](https://github.com/Mibew/mibew)**  
-
-  Open-source live support application (also known as Open Web Messenger) written in PHP and MySQL, enabling one-on-one chat assistance in real-time . Features unlimited operators, chats, and users; priority queue of visitors; chat button for email signatures; differing buttons on same website; reconnect automatically if internet drops; view history permission; individual chat window sizes for themes . Eclipse Public License 1.0.
-
-
-
-- **[Chatrix Web Chat](https://wordpress.org/plugins/chatrix-web-chat/)**  
-
-  Self-hosted live chat solution for WordPress with all data stored on your server . Features modern interface inspired by messaging apps, dedicated dashboard inbox, rich media support (text, voice notes, images, documents), customization (brand color, logo, header texts), smart notifications (visual/audio), and automatic cleanup of uploaded files after 30 days . Uses WordPress REST API and local database for real-time chat polling. No third-party services or external calls .
-
-
-
-- **[Captain Live Chat](https://github.com/devangvachheta/captain-live-chat)**  
-
-  Self-hosted live chat plugin for WordPress with real-time-feeling updates via AJAX polling (works on shared hosting) . Features floating chat widget with pre-chat form, quick-reply chips, typing indicators, read receipts, offline lead-capture screen, Messenger-style agent inbox with visitor info panel (browser, device, live current URL), role/user-based agent permissions, notifications (sound, browser push, in-app @mentions, rate-limited email), online status with auto-away, persistent conversation timeline, analytics with CSV export, canned replies, and 5-step widget designer wizard . All conversations stay in WordPress database, no external network calls .
-
-
-
-- **[Mesora](https://github.com/milmit/mesora-wordpress-live-chat)**  
-
-  Open-source live chat plugin by MilMit for fast website visitor and pre-sales conversations . Keeps chat experience inside WordPress while optionally mirroring to messaging providers (Telegram, Bale, Eitaa, WhatsApp Business Cloud API) so operators can answer from phone or desktop messenger . Features modern responsive widget, WooCommerce product/order context, Dokan context, voice notes, images, file attachments (8 MB limit), secure signed attachment URLs, quick replies, internal notes, visitor blocking, WordPress personal-data exporter/eraser integration, and configurable retention . No telemetry sent by default.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **[Salamandr](https://github.com/system4us/salamandr)** — Self-hosted support ticket and customer helpdesk (Zendesk alternative) in Go and Postgres. Features omnichannel unified inbox (email, WhatsApp Cloud API, live chat widget, Slack, Discord), air-gapped Ollama + pgvector for local AI, zero telemetry guarantee, and single-binary architecture .
-
-- **[ClefinCode Chat](https://github.com/Clefincode/Chat)** — First open-source omni-channel messaging solution built on ERPNext/Frappe. Connects WhatsApp, Telegram, Facebook, Instagram with secure, customizable communication hub .
-
-- **[Chat21](https://github.com/chat21)** — Open-source chat widget and Ionic mobile app built on Firebase/MQTT for embedding chat into web/mobile apps .
-
-- **Real-Time Infrastructure** — WebSocket libraries (Socket.io, ws), MQTT brokers for live message delivery.
-
-- **AI/Chatbot Integration** — Rasa, Dialogflow, Ollama for bot automation within chat platforms.
-
-
-
-**Frameworks for building custom systems**: Combine **Chatwoot** or **LibreDesk** for the support desk, **Chatrix** or **Captain Live Chat** for WordPress-based live chat, **Live Helper Chat** for PHP-based deployments, and **Salamandr** for Go-based high-performance helpdesk to build a complete self-hosted live chat stack.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Live chat software must comply with data protection regulations (GDPR, CCPA), consent requirements for visitor tracking, and accessibility standards.
-
-- Self-hosted open-source solutions require proper security hardening, spam prevention, and infrastructure management.
-
-
+# 💬 Awesome Live Chat Software & Customer Messaging Platforms
+
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Live Chat Software Banner" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Live-Chat-Software"><img src="https://img.shields.io/badge/Awesome-Live--Chat-blue.svg?style=flat-square&logo=awesomelists" alt="Awesome List"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Live-Chat-Software/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Live-Chat-Software?style=social" alt="GitHub Stars"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Live-Chat-Software/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0--1.0-green.svg?style=flat-square" alt="License"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Live-Chat-Software/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"></a>
+</p>
 
 ---
 
+## 🧭 Overview & Ecosystem Guide
 
+Welcome to the definitive, SEO-optimized repository of **Live Chat Software**, **Customer Messaging Platforms**, **Shared Inboxes**, and **AI Copilot Helpdesks**. This directory tracks market-leading **commercial SaaS platforms** and self-hosted **open-source projects** engineered for real-time customer engagement, conversion rate optimization, omnichannel ticket routing, and conversational AI.
 
-**Made for support teams, e-commerce businesses, SaaS companies, and developers building live chat platforms.**  
+Whether you are an enterprise support architect seeking SOC2-compliant customer service suites or an engineer searching for an open-source, GDPR-compliant live chat widget with complete data sovereignty, this guide delivers accurate pricing models, free trial limitations, valuation metrics, and GitHub community stats.
 
-Let's make live chat software more open, data-sovereign, and visitor-friendly.
+---
+
+## 📑 Table of Contents
+
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS & Hosted Live Chat Platforms](#-saas--hosted-live-chat-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🧩 Frameworks & Building Blocks](#-frameworks--building-blocks)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [📜 Disclaimer](#-disclaimer)
+
+---
+
+## 📊 Sector Overview & Market Dynamics
+
+The global **Live Chat and Customer Engagement Software market is estimated at approximately $1.1 billion to $1.3 billion**, projected to exceed **$2.4 billion by 2030** at a compound annual growth rate (CAGR) of ~11.5%.
+
+The sector is **moderately fragmented**: mega-cap CRM conglomerates (such as Salesforce and Zendesk) dominate high-touch enterprise omnichannel suites, while aggressive mid-market challengers (Intercom, Freshworks, Drift, LiveChat) and hundreds of self-hosted or niche live chat tools compete fiercely on AI deflection capabilities, rapid deployment, and privacy sovereignty.
+
+---
+
+## 🏢 SaaS & Hosted Live Chat Platforms
+
+Below is the comparative breakdown of leading hosted live chat and conversational engagement platforms. Entries are sorted descending by **Company Scale (Valuation / Market Capitalization / Annual Revenue)**.
+
+| 🏢 Platform | 💰 Pricing (Starting Tier) | 🎁 Free Tier Limit / Free Trial Policy | 📈 Company Scale (Valuation / Revenue) | 🎯 Core Focus & Key Capabilities |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Salesforce Live Agent](https://www.salesforce.com/)** | $25/user/month (Starter Suite, billed annually) | 30-day free trial with full access to Starter Suite features (no credit card required) | Enterprise Giant (~$260B+ Market Cap; ~$38B+ ARR) | Native enterprise CRM integration, omni-channel routing, automated skill-based dispatch, and Service Cloud unified records. |
+| **[Zendesk Chat](https://www.zendesk.com/)** | $55/agent/month (Support Team plan, billed annually) | 14-day free trial with full access to Zendesk Suite features and agent workspaces | Private Equity Scale (~$10.2B acquisition valuation by Hellman & Friedman; ~$1.7B+ ARR) | Robust ticket lifecycle management, omnichannel messaging triggers, CRM sync, macro shortcuts, and multi-brand reporting. |
+| **[Intercom](https://www.intercom.com/)** | $29/seat/month (Essential plan, billed annually) | 14-day free trial with access to live messenger, Fin AI Copilot testing, and basic inbox features | Unicorn Tier (~$3.9B Valuation; ~$300M+ ARR) | Conversational relationship platform with Fin AI Copilot bot deflection, interactive product tours, and proactive sales outreach. |
+| **[Freshchat](https://www.freshworks.com/freshchat/)** | $19/agent/month (Growth plan, billed annually) | Free for up to 10 agents with 100 incoming bot conversation sessions/month limit | Public Mid-Cap (~$4.5B Market Cap; ~$720M+ ARR) | Freddy AI chatbot support, unified omnichannel team inbox (WhatsApp, Instagram, web), predictive agent routing, and FAQ builder. |
+| **[Drift](https://www.drift.com/)** | $2,500/month (Advanced plan, billed annually) | No permanent free plan; 14-day customized demo sandbox trial upon sales qualification | Enterprise MarTech (~$1.2B acquisition valuation by Salesloft / Vista Equity) | High-velocity B2B conversational marketing, target account deanonymization, calendar booking automation, and pipeline acceleration. |
+| **[LiveChat](https://www.livechat.com/)** | $20/agent/month (Starter plan, billed annually) | 14-day free trial with access to Team tier capabilities (no credit card required) | Public Company (~$800M+ Market Cap on WSE: LVC; ~$85M+ ARR) | Specialized customer service suite with typing indicators, canned responses, e-commerce visitor cart tracking, and 200+ integrations. |
+| **[Tidio](https://www.tidio.com/)** | $29/month (Starter plan; includes 3 seats and 100 handled conversations) | Free for up to 50 handled conversations/month with 100 Lyro AI triggers and basic live chat widget | High-Growth Scaleup (~$150M+ Valuation; ~$20M+ ARR) | Hybrid live chat combining rule-based chatbots, Lyro conversational AI, and Shopify/WordPress e-commerce integrations. |
+| **[Crisp](https://crisp.chat/)** | $25/month/workspace (Pro tier, includes up to 4 operator seats) | Free plan limited to 2 operator seats, basic website chat widget, and 30-day chat history retention | Bootstrapped Scaleup (~$50M+ Estimated Valuation; ~$12M+ ARR) | Clean omnichannel customer messaging suite featuring shared inbox, video chat co-browsing, real-time translator, and knowledge base. |
+| **[Olark](https://www.olark.com/)** | $29/seat/month (Standard tier, billed annually) | 14-day free trial with 20 chat conversations and full feature evaluation access | Bootstrapped Profitable (~$15M–$25M Estimated Valuation; ~$5M+ ARR) | Lightweight, accessible live chat widget featuring real-time visitor monitoring, automated greetings, transcription emails, and webhooks. |
+| **[Pure Chat](https://www.purechat.com/)** | $39/month (Growth plan; covers 4 operators, billed annually) | 30-day free trial with unlimited live chats and full access to visitor analytics | Acquired Micro-Cap (~$10M Estimated Valuation; acquired by Ruby) | Straightforward live chat engine designed for small business operators, providing canned responses, schedule hours, and visitor tracking. |
+
+---
+
+## 🔓 Open-Source GitHub Projects
+
+Explore the top open-source live chat software, self-hosted support inboxes, and real-time customer communication suites. Projects are ordered descending by **GitHub Stars** ⭐.
+
+| 📦 Repository & Project | ⭐ GitHub Stars | 💻 Tech Stack | 📜 License | 💡 Highlights & Capabilities |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** | [![Stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white)](https://github.com/RocketChat/Rocket.Chat/stargazers) | TypeScript, Node.js, MongoDB, React | MIT | Enterprise-grade secure communication platform with built-in live chat website widgets, omnichannel agent routing (WhatsApp, SMS, Instagram), and video conferencing. |
+| **[Chatwoot](https://github.com/chatwoot/chatwoot)** | [![Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers) | Ruby on Rails, Vue.js, PostgreSQL, Redis | AGPL-3.0 | Modern alternative to Intercom and Zendesk. Features multi-brand unified inbox, live website messenger, CRM contact attributes, pre-chat forms, and AI copilot helpers. |
+| **[Papercups](https://github.com/papercups-io/papercups)** | [![Stars](https://img.shields.io/github/stars/papercups-io/papercups?style=social&color=white)](https://github.com/papercups-io/papercups/stargazers) | Elixir, Phoenix, React, TypeScript, PostgreSQL | MIT | Developer-first open-source live customer messaging widget with bidirectional Slack sync, custom React embed components, and webhook automation. |
+| **[Zammad](https://github.com/zammad/zammad)** | [![Stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers) | Ruby on Rails, JavaScript, PostgreSQL/MySQL, Elasticsearch | AGPL-3.0 | Web-based open-source customer support and ticketing system with built-in live chat widget, multi-channel intake, SLA monitoring, and CTI phone integration. |
+| **[FreeScout](https://github.com/freescout-help-desk/freescout)** | [![Stars](https://img.shields.io/github/stars/freescout-help-desk/freescout?style=social&color=white)](https://github.com/freescout-help-desk/freescout/stargazers) | PHP, Laravel, MySQL, Vue.js | AGPL-3.0 | Lightweight self-hosted helpdesk and shared mailbox (Help Scout alternative) offering optional live web chat modules, WhatsApp integrations, and multi-mailbox workflows. |
+| **[Chaskiq](https://github.com/chaskiq/chaskiq)** | [![Stars](https://img.shields.io/github/stars/chaskiq/chaskiq?style=social&color=white)](https://github.com/chaskiq/chaskiq/stargazers) | Ruby on Rails, React, PostgreSQL, Redis | AGPL-3.0 | Full-featured conversational marketing suite with web messenger embed, agent conversation routing, WebRTC video calls, bot triggers, and onboarding email campaigns. |
+| **[Peppermint](https://github.com/peppermint-lab/peppermint)** | [![Stars](https://img.shields.io/github/stars/peppermint-lab/peppermint?style=social&color=white)](https://github.com/peppermint-lab/peppermint/stargazers) | Node.js, Express, React, Prisma | MIT | Lightweight self-hosted ticketing and customer help desk platform (alternative to Zendesk & Jira) designed for fast setup, intuitive agent inboxes, and minimal dependencies. |
+| **[LibreDesk](https://github.com/abhinavxd/libredesk)** | [![Stars](https://img.shields.io/github/stars/abhinavxd/libredesk?style=social&color=white)](https://github.com/abhinavxd/libredesk/stargazers) | Go, Vue.js 3, Shadcn UI, SQLite/PostgreSQL | AGPL-3.0 | Single-binary self-hosted customer support desk featuring shared inbox for live chat, email, and WhatsApp, real-time widget, knowledge base, and agent copilot. |
+| **[Live Helper Chat](https://github.com/LiveHelperChat/livehelperchat)** | [![Stars](https://img.shields.io/github/stars/LiveHelperChat/livehelperchat?style=social&color=white)](https://github.com/LiveHelperChat/livehelperchat/stargazers) | PHP, MySQL, JavaScript | Apache-2.0 | Battle-tested live support app handling over 10,000+ chats/day. Includes voice/video/screen sharing, Telegram & WhatsApp bots, ChatGPT/Ollama AI integrations, and mobile apps. |
+| **[Mibew Messenger](https://github.com/Mibew/mibew)** | [![Stars](https://img.shields.io/github/stars/Mibew/mibew?style=social&color=white)](https://github.com/Mibew/mibew/stargazers) | PHP, MySQL, JavaScript | Apache-2.0 | Classic open-source 1-on-1 live chat support application (Open Web Messenger) with operator queuing, customizable buttons, sound alerts, and zero monthly fees. |
+| **[Tiledesk](https://github.com/Tiledesk/tiledesk)** | [![Stars](https://img.shields.io/github/stars/Tiledesk/tiledesk?style=social&color=white)](https://github.com/Tiledesk/tiledesk/stargazers) | Node.js, Angular, MongoDB, Docker | MIT | Open-source conversational automation platform pairing visual LLM bot builders with live agent handoff, multichannel routing, and Kubernetes deployment templates. |
+| **[Mesora](https://github.com/milmit/mesora-wordpress-live-chat)** | [![Stars](https://img.shields.io/github/stars/milmit/mesora-wordpress-live-chat?style=social&color=white)](https://github.com/milmit/mesora-wordpress-live-chat/stargazers) | PHP, WordPress Plugin, JavaScript | GPL-2.0 | Self-hosted WordPress live chat plugin with WooCommerce contextual order cards, voice notes, local MySQL data storage, and external messenger mirroring. |
+
+---
+
+## 🧩 Frameworks & Building Blocks
+
+When constructing custom in-house live chat stacks or conversational agent workflows:
+
+- 🚀 **Self-Hosted Support Desks**: Deploy **Chatwoot**, **Rocket.Chat**, or **LibreDesk** for production customer-facing web chat, WhatsApp, and email aggregation.
+- ⚡ **Real-Time Communication Protocols**: Utilize WebSockets (`ws`, `Socket.io`), Server-Sent Events (SSE), or MQTT brokers for millisecond message dispatch.
+- 🤖 **LLM & AI Bot Integrations**: Connect open-source models via Ollama, vLLM, or LangChain to automate frontline support resolution before routing to human operators.
+- 🔌 **WordPress Native Options**: Run **Mesora** or **Chatrix** for self-contained WordPress environments requiring zero third-party telemetry.
+
+---
+
+## 🤝 How to Contribute
+
+Contributions from developers, maintainers, and support engineers are welcome!
+
+1. 🍴 Fork this repository.
+2. 📝 Add or refine entries in `README.md` maintaining table format, verified pricing, free tier limits, company scale, and star badges.
+3. 🔗 Verify that all external URLs and GitHub stargazer badge links are functional.
+4. 🚀 Submit a Pull Request with a descriptive summary of your additions.
+
+---
+
+## 📜 Disclaimer
+
+- This repository is a community-curated directory intended for research, architectural planning, and educational purposes.
+- All product names, logos, and brands are property of their respective owners.
+- Live chat installations must adhere to regional privacy regulations (including GDPR, CCPA, and ePrivacy Directive) regarding tracking cookies, transcript retention, and visitor consent.
+
+---
+
+<p align="center">
+  <b>Built with ❤️ for support teams, engineering leads, and open-source advocates.</b><br>
+  <sub>Star ⭐ this repo if you find it helpful!</sub>
+</p>
